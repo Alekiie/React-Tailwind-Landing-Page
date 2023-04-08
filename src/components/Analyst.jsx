@@ -24,7 +24,7 @@ const Analyst = () => {
             Quasi dicta ex soluta consectetur.
           </p>
           <button className="text-[#00f9da] font-bold bg-black mx-auto py-3 my-6 rounded-md w-[200px]">
-            Get Started
+           Let's Start
           </button>
         </div>
       </div>
